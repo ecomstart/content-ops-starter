@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      eComStart empowers aspiring entrepreneurs to kickstart their e-commerce
+      journey with ease. From setting up Shopify stores to providing expert
+      insights, we help turn your online business dreams into reality.
+
     actions:
       - label: Get started
         altText: ''
