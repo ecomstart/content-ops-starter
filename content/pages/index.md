@@ -335,7 +335,7 @@ sections:
           “ecomstart made launching my Shopify store seamless and stress-free!
           Their step-by-step guidance and expert advice turned my vision into a
           thriving online business in no time.”
-        tagline: 'Maria Walters, EcoFood'
+        tagline: Our trusted customer
         subtitle: 'Maria Walters, EcoFood'
         text: |+
           ###### Small Business Owner
