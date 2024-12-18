@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Visit eComStart
         altText: ''
-        url: /
+        url: ecomstart.io
         showIcon: false
         icon: arrowRight
         iconPosition: right
