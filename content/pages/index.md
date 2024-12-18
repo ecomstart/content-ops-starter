@@ -105,7 +105,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Fast and Reliable Results
+        subtitle: ''
         text: >+
           Whether it's a custom setup or a prebuilt store, we ensure your
           business is up and running quickly without compromising quality.
