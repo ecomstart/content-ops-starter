@@ -551,7 +551,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: eComStart
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: eComStart site built with Netlify
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
