@@ -81,10 +81,11 @@ sections:
               borderRadius: x-large
       - title: Tailored for Beginners
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          We specialize in helping first-time entrepreneurs navigate the
+          complexities of e-commerce with simple, effective solutions.
+
         image:
           altText: Featured icon two
           elementId: ''
