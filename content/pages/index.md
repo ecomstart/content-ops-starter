@@ -259,7 +259,7 @@ sections:
 
     actions: []
     media:
-      url: /images/hero2.svg
+      url: /images/headway-5QgIuuBxKwM-unsplash.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
