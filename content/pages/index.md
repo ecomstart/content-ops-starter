@@ -336,7 +336,7 @@ sections:
           Their step-by-step guidance and expert advice turned my vision into a
           thriving online business in no time.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Maria Walters, EcoFood'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
