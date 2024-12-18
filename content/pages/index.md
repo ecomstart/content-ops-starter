@@ -524,11 +524,40 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: We will reach out to you as soon as possible
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      *   Address: 19F, Viwaseen Tower, 48 To Huu Str., Trung Van Ward, Nam Tu
+      Liem Dist., Hanoi, Vietnam
+
+
+      *   Phone: +84 983 513 599
+
+
+      *   Email: hello\@ecomstart.io
+
+
+      *   Website: https\://ecomstart.io/
+
+
+      *   Facebook: https\://www\.facebook.com/ecomstart.io
+
+
+      *   Instagram: https\://www\.instagram.com/hello\_ecomstart/
+
+
+      *   Twitter:  https\://twitter.com/eComStart119218
+
+
+      *   Pinterest: https\://www\.pinterest.com/hello\_ecomstart
+
+
+      *   Linkedin: https\://www\.linkedin.com/company/ecomstart/
+
+
+      *   Instapaper: https\://www\.instapaper.com/p/13950107
+
+
+      *   Padlet: https\://padlet.com/ecomstart/
+
     media:
       fields:
         - name: name
