@@ -334,7 +334,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 2
-        subtitle: 'Maria Walters, Company'
+        subtitle: Elias Dio - Maroke Food
         text: >+
 
           "Thanks to ecomstart, my Shopify store was live in no time! Their
