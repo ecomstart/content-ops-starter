@@ -523,7 +523,7 @@ sections:
       text: Get in touch by filling this form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: We will reach out to you as soon as possible
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
