@@ -251,7 +251,7 @@ sections:
       text: Shopify Prebuilt Store
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: A pre-built Shopify that can be used immediately for sales
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
