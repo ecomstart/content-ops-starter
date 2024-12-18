@@ -552,7 +552,7 @@ sections:
 seo:
   metaTitle: eComStart
   metaDescription: eComStart site built with Netlify
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/headway-5QgIuuBxKwM-unsplash.jpg
   type: Seo
 type: PageLayout
 ---
