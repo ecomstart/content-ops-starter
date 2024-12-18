@@ -301,7 +301,7 @@ sections:
     items:
       - title: Excellent services!
         tagline: Testimonial 1
-        subtitle: 'John Doe, Company'
+        subtitle: 'John Mayer, Company'
         text: >+
           ecomstart made launching my Shopify store seamless and stress-free!
           Their step-by-step guidance and expert advice turned my vision into a
