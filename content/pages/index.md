@@ -274,7 +274,7 @@ sections:
     media:
       url: >-
         /images/freepik__candid-image-photography-natural-textures-highly-r__32290.jpeg
-      altText: Dope design preview
+      altText: eComStart Shopify Store Optimization
       type: ImageBlock
     badge:
       label: For existing customers
