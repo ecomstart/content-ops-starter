@@ -68,6 +68,13 @@
         },
         {
             "type": "Social",
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/company/ecomstart/",
+            "icon": "linkedin",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
             "altText": "Instagram link",
             "url": "https://www.instagram.com/hello_ecomstart/",
             "icon": "instagram",
