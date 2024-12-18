@@ -257,14 +257,7 @@ sections:
       Need to get started quickly? Choose from our selection of prebuilt,
       niche-specific Shopify stores that are ready to go live in minutes.
 
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
