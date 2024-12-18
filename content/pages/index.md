@@ -276,9 +276,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Boost your store performance
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Boost your sales with our expert optimization services, including improved
+      site speed, SEO, and user experience design to increase conversions.
+
+
+
     actions:
       - label: Get started
         url: /
