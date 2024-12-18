@@ -163,11 +163,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Discover how we help hundred of new entrepreneurs build their online store
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      At ecomstart, we provide end-to-end solutions to help entrepreneurs
+      launch, grow, and optimize their Shopify stores. Whether you're starting
+      from scratch or looking to enhance your existing store, our services are
+      designed to simplify the process and deliver results. From custom store
+      setups to ready-to-go prebuilt stores and expert optimization, we’re here
+      to support your e-commerce success every step of the way.
+
+
+
     badge:
       label: Our services
       color: text-primary
