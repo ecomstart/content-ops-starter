@@ -332,8 +332,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “ecomstart made launching my Shopify store seamless and stress-free!
+          Their step-by-step guidance and expert advice turned my vision into a
+          thriving online business in no time." - ”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
