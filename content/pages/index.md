@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Your Launchpad to E-Commerce Success!
+      text: Your Launchpad to Shopify Success!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
