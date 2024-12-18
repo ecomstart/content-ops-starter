@@ -205,7 +205,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Shopify Store Setup
+      text: Shopify Store Setup S
       color: text-dark
       styles:
         self:
