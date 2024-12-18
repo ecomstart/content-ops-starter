@@ -307,7 +307,7 @@ sections:
         subtitle: 'Maria Walters, EcoFood'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/brooke-cagle-Nm70URdtf3c-unsplash.jpg
           altText: Maria Walters
           styles:
             self:
