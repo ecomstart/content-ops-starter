@@ -300,34 +300,6 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “ecomstart made launching my Shopify store seamless and stress-free!
-          Their step-by-step guidance and expert advice turned my vision into a
-          thriving online business in no time.”
-        tagline: Our trusted customer
-        subtitle: 'Maria Walters, EcoFood'
-        text: ''
-        image:
-          url: /images/brooke-cagle-Nm70URdtf3c-unsplash.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
         tagline: Testimonial 2
