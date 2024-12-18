@@ -337,9 +337,7 @@ sections:
           thriving online business in no time.”
         tagline: Our trusted customer
         subtitle: 'Maria Walters, EcoFood'
-        text: |+
-          ######
-
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
