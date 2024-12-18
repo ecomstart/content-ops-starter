@@ -42,7 +42,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Promises
+      text: Our Promise
       color: text-dark
       styles:
         self:
