@@ -1,15 +1,15 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/eComStart-logo-square-48x48.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Your one stop shop for eCommerce & Shopify knowledge\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "latest post",
         "links": [
             {
-                "label": "Features",
+                "label": "ABC",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "BCD",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "CDE",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,17 +37,8 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "ecomstart",
         "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
             {
                 "label": "Blog",
                 "url": "/blog",
@@ -61,49 +52,35 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
             "type": "Social"
         },
         {
+            "type": "Social",
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/ecomstart/",
             "icon": "linkedin",
-            "type": "Social"
+            "elementId": ""
         },
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/hello_ecomstart/",
+            "icon": "instagram",
+            "elementId": ""
         },
         {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/ecomstart.io",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "legalLinks": [],
+    "copyrightText": "eComStart @2025\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
