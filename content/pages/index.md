@@ -300,8 +300,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "ecomstart made launching my Shopify store seamless and stress-free!
+          Their step-by-step guidance and expert advice are excellent
         tagline: Testimonial 1
         subtitle: 'John Doe, Company'
         text: >+
