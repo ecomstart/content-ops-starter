@@ -248,7 +248,7 @@ sections:
     actions: []
     media:
       url: /images/headway-5QgIuuBxKwM-unsplash.jpg
-      altText: Fun feature preview
+      altText: eComStart Shopify Prebuilt Store
       type: ImageBlock
     badge:
       label: For Starter
