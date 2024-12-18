@@ -48,7 +48,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Things we
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Expertise You Can Trust
