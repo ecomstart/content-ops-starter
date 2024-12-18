@@ -79,6 +79,13 @@
             "url": "https://www.instagram.com/hello_ecomstart/",
             "icon": "instagram",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/ecomstart.io",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [
