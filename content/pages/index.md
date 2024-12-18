@@ -252,9 +252,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: A pre-built Shopify that can be used immediately for sales
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      Need to get started quickly? Choose from our selection of prebuilt,
+      niche-specific Shopify stores that are ready to go live in minutes.
+
     actions:
       - label: Get started
         url: /
