@@ -156,7 +156,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Launch your business 10x faster
+      text: Launch your sotre10x faster
       color: text-dark
       styles:
         self:
