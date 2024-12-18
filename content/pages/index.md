@@ -335,10 +335,11 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 2
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          "Thanks to ecomstart, my Shopify store was live in no time! Their
+          expert team made the entire process effortless."
+
         image:
           url: /images/elizeu-dias-2EGNqazbAMk-unsplash.jpg
           altText: Elias Dioa
