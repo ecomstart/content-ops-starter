@@ -212,11 +212,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Create a Shopify Store as you wish
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      We help you build a fully functional Shopify store tailored to your brand
+      and target audience. From theme selection to product listing, we handle it
+      all for a smooth start.
+
     actions: []
     media:
       title: Title of the video
