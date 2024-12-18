@@ -338,11 +338,7 @@ sections:
         tagline: Testimonial 1
         subtitle: 'Maria Walters, EcoFood'
         text: |+
-          ## Small Business Owner
-
-
-
-
+          ###### Small Business Owner
 
         image:
           url: /images/person-placeholder-light.png
