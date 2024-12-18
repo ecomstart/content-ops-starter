@@ -106,10 +106,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Fast and Reliable Results
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Whether it's a custom setup or a prebuilt store, we ensure your
+          business is up and running quickly without compromising quality.
+
         image:
           altText: Featured icon three
           elementId: ''
