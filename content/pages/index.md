@@ -230,7 +230,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
-      altText: Image alt text placeholder
+      altText: eComStart Shopify Store Setup Services
       elementId: ''
       styles:
         self:
