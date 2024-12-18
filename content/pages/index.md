@@ -337,7 +337,13 @@ sections:
           thriving online business in no time.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, EcoFood'
-        text: ''
+        text: |+
+          ## Small Business Owner
+
+
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
