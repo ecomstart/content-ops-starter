@@ -334,7 +334,7 @@ sections:
       - title: >-
           “ecomstart made launching my Shopify store seamless and stress-free!
           Their step-by-step guidance and expert advice turned my vision into a
-          thriving online business in no time." - ”
+          thriving online business in no time.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
