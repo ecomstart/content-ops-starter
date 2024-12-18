@@ -53,10 +53,11 @@ sections:
       - type: FeaturedItem
         title: Expertise You Can Trust
         subtitle: More than 10 years experience experts
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          With years of experience in Shopify and e-commerce, we know what it
+          takes to build a successful online store.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
