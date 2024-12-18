@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/microsoft-edge-1N49Cn7P0Fg-unsplash (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
