@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Expertise You Can Trust
-        subtitle: More than 10 years experience experts
+        subtitle: ''
         text: >+
 
           With years of experience in Shopify and e-commerce, we know what it
