@@ -338,7 +338,7 @@ sections:
         tagline: Our trusted customer
         subtitle: 'Maria Walters, EcoFood'
         text: |+
-          ###### Small Business Owner
+          ######
 
         image:
           url: /images/person-placeholder-light.png
