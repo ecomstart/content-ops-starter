@@ -79,12 +79,6 @@
             "url": "https://www.instagram.com/hello_ecomstart/",
             "icon": "instagram",
             "elementId": ""
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
         }
     ],
     "legalLinks": [
