@@ -457,7 +457,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/brooke-cagle-Nm70URdtf3c-unsplash.jpg
           altText: Jane Doe
           styles:
             self:
