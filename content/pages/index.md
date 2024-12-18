@@ -310,7 +310,7 @@ sections:
           thriving online business in no time.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/brooke-cagle-Nm70URdtf3c-unsplash.jpg
           altText: John Doe
           styles:
             self:
