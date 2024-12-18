@@ -532,31 +532,7 @@ sections:
       *   Phone: +84 983 513 599
 
 
-      *   Email: hello\@ecomstart.io
-
-
-      *   Website: https\://ecomstart.io/
-
-
-      *   Facebook: https\://www\.facebook.com/ecomstart.io
-
-
-      *   Instagram: https\://www\.instagram.com/hello\_ecomstart/
-
-
-      *   Twitter:  https\://twitter.com/eComStart119218
-
-
-      *   Pinterest: https\://www\.pinterest.com/hello\_ecomstart
-
-
-      *   Linkedin: https\://www\.linkedin.com/company/ecomstart/
-
-
-      *   Instapaper: https\://www\.instapaper.com/p/13950107
-
-
-      *   Padlet: https\://padlet.com/ecomstart/
+      *   Email: <hello@ecomstart.io>
 
     media:
       fields:
