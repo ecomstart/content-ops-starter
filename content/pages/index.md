@@ -341,7 +341,7 @@ sections:
           explicabo.
         image:
           url: /images/elizeu-dias-2EGNqazbAMk-unsplash.jpg
-          altText: Maria Walters
+          altText: Elias Dioa
           styles:
             self:
               borderRadius: full
