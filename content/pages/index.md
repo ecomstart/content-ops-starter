@@ -229,7 +229,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
