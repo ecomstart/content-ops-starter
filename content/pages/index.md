@@ -311,7 +311,7 @@ sections:
 
         image:
           url: /images/brooke-cagle-Nm70URdtf3c-unsplash.jpg
-          altText: John Doe
+          altText: Malrine Val
           styles:
             self:
               borderRadius: full
