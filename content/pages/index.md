@@ -301,7 +301,7 @@ sections:
     items:
       - title: >-
           "ecomstart made launching my Shopify store seamless and stress-free!
-          Their step-by-step guidance and expert advice are excellent
+          Their step-by-step guidance and expert advice are excellent!
         tagline: Testimonial 1
         subtitle: 'John Doe, Company'
         text: >+
