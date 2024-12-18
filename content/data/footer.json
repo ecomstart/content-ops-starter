@@ -9,7 +9,7 @@
         "title": "latest post",
         "links": [
             {
-                "label": "Features",
+                "label": "ABC",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
