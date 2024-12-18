@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Expertise You Can Trust
-        subtitle: Numbers Done
+        subtitle: More than 10 years experience experts
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
