@@ -275,7 +275,7 @@ sections:
       text: Shopify Store Optimization
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Boost your store performance
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
