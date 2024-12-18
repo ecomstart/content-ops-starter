@@ -284,7 +284,8 @@ sections:
 
     actions: []
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/freepik__candid-image-photography-natural-textures-highly-r__32290.jpeg
       altText: Dope design preview
       type: ImageBlock
     badge:
