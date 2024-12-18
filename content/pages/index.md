@@ -51,7 +51,7 @@ sections:
     subtitle: Things we
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Expertise You Can Trust
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
