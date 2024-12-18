@@ -15,7 +15,7 @@ sections:
       insights, we help turn your online business dreams into reality.
 
     actions:
-      - label: Get started
+      - label: Visit eComStart
         altText: ''
         url: /
         showIcon: false
