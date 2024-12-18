@@ -297,10 +297,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: TESTIMONIALS
-      color: text-dark
     subtitle: What our customers say about us
     items:
       - title: >-
