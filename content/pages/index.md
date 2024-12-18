@@ -304,10 +304,11 @@ sections:
           accomplish a particular purpose."
         tagline: Testimonial 1
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ecomstart made launching my Shopify store seamless and stress-free!
+          Their step-by-step guidance and expert advice turned my vision into a
+          thriving online business in no time.
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
